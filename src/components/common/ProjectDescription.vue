@@ -24,8 +24,8 @@
       <br />
       <br />
       {{ $t('landing.FRONTEND_DOCUMENTATION') }}:
-      <a href="https://github.com/davellanedam/vue-skeleton-mvp"
-        >https://github.com/davellanedam/vue-skeleton-mvp</a
+      <a href="https://github.com/alexknorth/vue-skeleton-mvp"
+        >https://github.com/alexknorth/vue-skeleton-mvp</a
       >
     </v-flex>
     <v-flex xs12>
@@ -34,8 +34,8 @@
       <br />
       {{ $t('landing.API_DOCUMENTATION') }}:
       <a
-        href="https://github.com/davellanedam/node-express-mongodb-jwt-rest-api-skeleton"
-        >https://github.com/davellanedam/node-express-mongodb-jwt-rest-api-skeleton</a
+        href="https://github.com/alexknorth/vue-skeleton-mvp/node-express-mongodb-jwt-rest-api-skeleton"
+        >https://github.com/alexknorth/vue-skeleton-mvp/node-express-mongodb-jwt-rest-api-skeleton</a
       >
     </v-flex>
   </div>

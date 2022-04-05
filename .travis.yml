@@ -22,4 +22,4 @@ deploy:
   on:
     branch: master
     tags: true
-    repo: davellanedam/vue-skeleton-mvp
+    repo: alexknorth/vue-skeleton-mvp
